@@ -24,7 +24,7 @@
 
 使用方法
 
-	1. 下载HB文件夹
+	1. 左侧release下载HB.zip文件并解压
 	
 	2. 在文件夹中找到并打开HearthBuddyHelper.exe这个文件
 	
